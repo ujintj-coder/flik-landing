@@ -14,7 +14,7 @@ const CallToActionSection: React.FC = () => {
           <p className="text-lg text-gray-600 mb-8">
             Be part of the next big thing. Download Flik and start playing with your friends today.
           </p>
-          <GradientButton className="cta-flik-btn text-xl px-10 py-4" data-cta="flik" href="...">Flik을 가장 먼저 플레이하세요!</GradientButton>
+          <GradientButton className="cta-flik-btn text-xl px-10 py-4" data-cta="flik" href="https://docs.google.com/forms/d/1tsJOdnOUH9skMKROcuevlgHmf-sxjenV9UcyzaXDBhU/edit">Flik을 가장 먼저 플레이하세요!</GradientButton>
         </div>
       </div>
     </section>
